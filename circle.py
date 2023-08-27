@@ -1,7 +1,7 @@
-#My python code
+My python code
 
 #A function that calculates the area of a square
-def squareArea(radius):
+def circleArea(radius):
 	area = 3.142 * (radius ** 2)
 	return (area)
 
